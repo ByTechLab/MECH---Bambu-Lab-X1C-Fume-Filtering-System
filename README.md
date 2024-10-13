@@ -2,7 +2,7 @@
     <img src="README_MD_IMG/bambu-lab-x1c-fume-filtering-system-assembled.JPG" alt="project photo">
 </div>
 
-ESP8266 based LED calendar.
+Air purifier based X1C fume filtering system.
 
 ### Read more at BYTECHLAB:
 
